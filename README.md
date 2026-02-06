@@ -1,7 +1,4 @@
 # punk-zine-project
-# Punk Zine Project
-
-[View Full Zine (PDF)](punk-zine-final.pdf)
 
 ## Overview
 This zine was created for an undergradaute UC Berkeley club zine publication called "GAG Magazine", exploring Japanese punk subculture and its social impact. The project combines historical research with editorial design to document how punk music functioned as both cultural rebellion and community formation.
